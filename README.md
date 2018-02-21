@@ -1,2 +1,2 @@
-# coding-game - clash of code
+# Clash of code
 Solutions of Clash of Code, in javascript
