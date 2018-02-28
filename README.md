@@ -1,2 +1,2 @@
 # Clash of code
-Solutions of Clash of Code, in javascript
+Solutions of some Clash of Code, in javascript
